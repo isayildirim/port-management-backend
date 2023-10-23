@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "name": "Ataturk",
+    "code": "IST"
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "name": "Sabiha Gokcen",
+    "code": "SAW"
+  },
+  {
+    "city": "Kocaeli",
+    "country": "Turkiye",
+    "name": "Cengiz Topel",
+    "code": "KCO"
+  },
+  {
+    "city": "Ankara",
+    "country": "Turkiye",
+    "name": "Esenboga",
+    "code": "ESB"
+  },
+  {
+    "city": "Mugla",
+    "country": "Turkiye",
+    "name": "Milas",
+    "code": "BJV"
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "name": "JFK",
+    "code": "JFK"
+  },
+  {
+    "city": "Izmir",
+    "country": "Turkiye",
+    "name": "Adnan Menderes",
+    "code": "ADB"
+  },
+  {
+    "city": "Kayseri",
+    "country": "Turkiye",
+    "name": "Erkilet",
+    "code": "ASR"
+  },
+  {
+    "city": "Adana",
+    "country": "Turkiye",
+    "name": "Sakirpasa",
+    "code": "ADA"
+  },
+  {
+    "city": "Antalya",
+    "country": "Turkiye",
+    "name": "Antalya",
+    "code": "AYT"
+  }
+]
